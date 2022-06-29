@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Book one way outstaion">
+	<test name="SeleniumTesting">
+		<classes>
+			<class name="TestSuites.SmokeTest" />
+			<class name="TestSuites.TestCases" />		
+		</classes>
+	</test>
+</suite>
